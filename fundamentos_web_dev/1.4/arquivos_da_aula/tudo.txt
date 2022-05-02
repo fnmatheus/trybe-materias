@@ -1,0 +1,5 @@
+azul
+morango
+laranja
+banana
+maca
