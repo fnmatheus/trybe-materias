@@ -1,0 +1,16 @@
+Git - é um mecanismo de controle de versão, garantindo que o código tenha a possíbilidade de navegar entre as versões do repositórios
+GitHub - é uma plataforma de hospedagem de repositórios de código-fonte com controle de versão usando o Git
+
+branch - ramificações que podem conter modificaçoes sem alteraçoes entre si, para não precisar alterar o main e correr riscos
+commit - validar uma alteraçao que foi feita
+merge - serve para enviar uma alteraçao de uma branch para outra
+
+git branch - lista as branchs existentes
+git branch 'nome' - cria um novo repositorio
+git status - mostra se na brench tem algo para ser "commitado"
+git add - adiciona os itens nas fila para dar commit
+git commit -m "breve descricao do commit" - dar o commit na brench
+git checkout 'nome da branch' - muda de branch
+git merge 'nome da branch' - envia a alteraçao da branch que escolheu para que esta
+git clone ssh/https - da um clone no repostitorio do GitHub por exemplo
+git push ssh/https - envia o repositorio para o GitHub
