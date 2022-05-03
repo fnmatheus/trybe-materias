@@ -38,3 +38,7 @@ git push -u origin main - para enviar a branch
 git fetch - puxa o repositorio remoto para o repositorio local
 git status - para verificar se existe mudancas
 git pull - verifica se tem alteracoes mas tambem faz o merge
+
+Obs
+git remote -v - mostra quais sao as permissoes possui
+git checkout -b 'nome da branch' - ja cria e muda para branch
