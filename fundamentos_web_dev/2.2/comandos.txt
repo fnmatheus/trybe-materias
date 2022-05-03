@@ -47,3 +47,5 @@ Obs
 git remote -v - mostra quais sao as permissoes possui
 git checkout -b 'nome da branch' - ja cria e muda para branch
 git branch -d 'nome da branch' - deleta a branch
+
+***
