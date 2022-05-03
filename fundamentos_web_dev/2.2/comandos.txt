@@ -39,6 +39,11 @@ git fetch - puxa o repositorio remoto para o repositorio local
 git status - para verificar se existe mudancas
 git pull - verifica se tem alteracoes mas tambem faz o merge
 
+Pull request
+
+git push -u origin 'nome da branch' - cria um pullrequest no github
+
 Obs
 git remote -v - mostra quais sao as permissoes possui
 git checkout -b 'nome da branch' - ja cria e muda para branch
+git branch -d 'nome da branch' - deleta a branch
