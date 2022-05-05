@@ -7,4 +7,7 @@ Porque isso é importante?
 
 As peças que montam a internet
 	Cliente: Firefox, Mozilla, Chrome... O termo técnico para navegadores é cliente, podendo considerar o seu computador como cliente em um modelo sendo Cliente-Servidor. A sua principal função é receber a interação do usuário e traduzi-la em uma requisição para o Sevidor Web.
-	Servidor:
+	Servidor: É um super computador conectado a internet. Sua principal função é armazenar, processar e entregar páginas web para os Clientes.
+	Endereço IP: A sigla refere-se Internet Protocol (IP). É um identificador númerico para um dispositivo conectado à rede TCP/IP (ex: 244.155.65.2). Esses números são chamados de endereço lógico. Para localizar um dispositivo esse endereço lógico é convertido em um endereço físico (MAC address).
+	TCP/IP: É o principal protcolo de envio e recebimento de dados na internet. TCP significa Transmission Control Protocol, em suma, o TCP será responsável por definir como diferentes aplicações se comunicam na rede e também em como os dados enviados serão divididos em pacotes. E o IP, define como os dados dividos em pacotes devem ser enviados para chegar corretamente. O TCP/IP é a união desses dois protocolos, uma pilha de protocolos que dividimos em quatro camadas: aplicação, transporte, rede e interface.
+	ISP: São os provedores de internet, como: Vivo, TIM, Conecta, etc
