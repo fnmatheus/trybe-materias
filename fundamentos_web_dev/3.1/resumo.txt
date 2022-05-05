@@ -1,0 +1,34 @@
+O HTML é a estrutura de uma página web, não é uma linguagem de progamação, é o esqueleto de uma página web.
+
+Estrurua básica de uma página HTML:
+	
+	<nomeTag atributo="valor">
+		conteudo da tag
+	</nomeTag>
+
+Estrutura padrão:
+	<!DOCTYPE html> - Diz que o arquivo está em html 5
+	<html lang="lingua, ex:"pt-bt""> - tag propriamente dita do HTML
+		<head> - Não tem informações visiveis tem as configurações da página
+			<meta charset="UTF-8">
+			<title>Aprendendo HTML</title> - aparece na aba
+		</head>
+		<body> - Vão vir todas as tags vísiveis da página
+			<h1>Aprendizados</h1>
+			<h2>Meu aprendizado começa aqui e agora!</h2>
+			<p><em>Hoje eu começo minha jornada da Trybe!</em><br> 
+			Com muito esforço vou me tornar uma pessoa desenvolveroda muito capaz!</p>
+		</body>
+	</html>
+
+Tags úteis: <br> - quebra a linha do texto
+	    <strong>texto</strong> - coloca em negrito
+	    <em>texto</em> - Parece italico, mas tem um significado maior
+	    <ul>
+	    	lista
+	    </ul> - cria uma lista não ordenada
+	    <ol>
+	    	lista
+	    </ol> - cria uma lista ordenada
+	    <li>texto</li> - cada item da lista
+	    <img src="link ou arquivo do diretorio" alt="adiciona descrição da imagem" width="tamenho em pixel">
