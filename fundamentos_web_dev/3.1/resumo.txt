@@ -32,3 +32,6 @@ Tags úteis: <br> - quebra a linha do texto
 	    </ol> - cria uma lista ordenada
 	    <li>texto</li> - cada item da lista
 	    <img src="link ou arquivo do diretorio" alt="adiciona descrição da imagem" width="tamenho em pixel">
+	    
+HTML - Links externos e internos
+	Tags: <a href="link externo ou ancora dentro da própria págian" target="aonde vai abrir ex: "_blank"">Currículo</a> - pode ser usado dentro de outras tags pra criar textos interativos
