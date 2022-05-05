@@ -1,0 +1,10 @@
+***Internet - Entendendo como ela funciona***
+
+Porque isso é importante?
+	Como desenvolvedor para web, conhecer o funcionamento da internet é um requisito primoridial.
+	Ter noção de como ela é estruturada, por exemplo: quando for pensar no design de uma aplicação web terá que considerar fatores como a latência da rede, a geolocalização dos servidores, a velocidade e/ou disponibilidade de conexão dos usuários.
+	Precisando saber, em suma, como os servidores funcionam, para quando for colocar um projeto "no ar", ou "em produção".
+
+As peças que montam a internet
+	Cliente: Firefox, Mozilla, Chrome... O termo técnico para navegadores é cliente, podendo considerar o seu computador como cliente em um modelo sendo Cliente-Servidor. A sua principal função é receber a interação do usuário e traduzi-la em uma requisição para o Sevidor Web.
+	Servidor:
