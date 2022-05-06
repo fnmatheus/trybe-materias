@@ -1,0 +1,18 @@
+Sintexe basica de alteracao no CSS
+
+<style>
+	tag ou #id ou .class{
+		propriedade: valor;
+	}
+</style>
+
+Propriedades de texto
+	font-family: nome, fontereserva;
+		obs: serif (Times New Romam), sans-serif (Arial, Helvetica), cursive (manuscrita), fantasy, monospace. 
+		Normalmente sao essas mas usa a fonte padrao do sistema
+	font-size: tamanho (px ou em(comparativa ex: 2em = 2xValorEmPx)); - pode se usar no boddy
+	font-weight: formato - Pode tranformar em bold por exemplo
+	font-style: estilo - Pode colocar em italico por exemplo
+	line-height: tamanho - Define o espacamento entre os textos
+	text-align: formatacao - Define como o texto vai se organizar
+	text-decoration: como - Pode sublinhar o texto por exemplo 
