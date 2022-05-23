@@ -16,3 +16,5 @@ Propriedades de texto
 	line-height: tamanho - Define o espacamento entre os textos
 	text-align: formatacao - Define como o texto vai se organizar
 	text-decoration: como - Pode sublinhar o texto por exemplo 
+	
+border-radius: % - arredonda
